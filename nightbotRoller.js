@@ -3,7 +3,7 @@ let a = '$(1)';
 let o = "";
 if (a.toLowerCase() === "gfi")
 {
-   o = `$(user) rolled a 1 on 9 GFIs.`; //...because GFIs fail 900% of the time, of course.
+   o = `$(user) rolled a 1 on 9 GFIs`; //...because GFIs fail 900% of the time, of course.
 }
 else
 {
